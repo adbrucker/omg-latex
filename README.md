@@ -4,7 +4,7 @@ of OMG's standard documents in general and in particular
 the layout of the OCL standard, e.g., 
 * paper size 8.28x11 inch,
 * text area 6.7x8in,
-* times roman, helvetica, and courier as fonts,
+* Times New Roman, Helvetica, and Courier as fonts,
 * ragged right paragraph formatting.
 
 
